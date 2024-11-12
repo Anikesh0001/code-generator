@@ -6,6 +6,7 @@ A brief description of your project and its purpose.
 
 This is a simple Bash script that prompts the user for a programming language and a problem statement, then creates a file with the appropriate extension, opens it in Visual Studio Code, and uses AppleScript to interact with the editor for code generation.
 
+
 ## Supported Languages
 
 - C
