@@ -38,7 +38,9 @@ This is a simple Bash script that prompts the user for a programming language an
 
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the repository directory.
-3. Make the script executable:
-   ```bash
-   chmod +x code_generator.sh# Code-generator-script
-   ```
+   give following command in Your Terminal
+1.git clone https://github.com/Anikesh0001/code-generator-script.git
+2.cd code-generator-script
+3.chmod +x vscode_automate.sh
+4. ./vscode_automate.sh
+
