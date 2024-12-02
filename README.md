@@ -46,3 +46,7 @@ This is a simple Bash script that prompts the user for a programming language an
 3.chmod +x vscode_automate.sh
 4. ./vscode_automate.sh
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
