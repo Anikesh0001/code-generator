@@ -4,7 +4,7 @@ A brief description of your project and its purpose.
 
 ## Code Generator Script
 
-This is a simple Bash script that prompts the user for a programming language and a problem statement, then creates a file with the appropriate extension, opens it in Visual Studio Code, and uses AppleScript to interact with the editor for code generation.
+This is a simple Bash script that prompts the user for a programming language and a problem statement, then creates a file with the appropriate extension, opens it in Visual Studio Code, and uses AppleScript to interact with the editor for code generation. After writing problem and press enter. It will automatically open VScode and it will write code and run program... 
 ## Demo Video
 
 [Click here to watch the demo video](./video.mp4)
